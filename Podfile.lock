@@ -1,0 +1,60 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AnimatedGIFImageSerialization (0.2.0)
+  - DBSphereTagCloud (1.0.0)
+  - FXBlurView (1.6.4)
+  - Masonry (1.1.0)
+  - MPFoldTransition (0.0.1)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SlimeRefresh (0.0.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - AnimatedGIFImageSerialization
+  - DBSphereTagCloud
+  - FXBlurView
+  - Masonry
+  - MPFoldTransition
+  - SDWebImage (~> 4.3.3)
+  - SlimeRefresh
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - AnimatedGIFImageSerialization
+    - DBSphereTagCloud
+    - FXBlurView
+    - Masonry
+    - MPFoldTransition
+    - SDWebImage
+    - SlimeRefresh
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AnimatedGIFImageSerialization: b0f0cfe71eac1ee45a3d57ae533c23b8e6f29501
+  DBSphereTagCloud: 57b9571e93b3565fc22cd65040eabbada06b56f2
+  FXBlurView: db786c2561cb49a09ae98407f52460096ab8a44f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MPFoldTransition: b863db88c4cbda72ac62442aa196d4392bb497a1
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SlimeRefresh: c70e370dccfa8d74d4c3ff9702769d2b156a50e6
+
+PODFILE CHECKSUM: 011b17e259f2bdea7cede38494d7f0ffba4c250f
+
+COCOAPODS: 1.5.3
